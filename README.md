@@ -7,7 +7,7 @@ Hi, I'm Omar Mushtaha, a passionate self-taught Flutter Developer ⭐ from Pales
 I'm an flutter developer with experience of working on a variety of projects and I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle, applying my knowledge of OOP, MVVM, and MVC principles. My past work includes building user-focused, innovative, keep user security and performance UI and development clean code with teamwork. I have good Rest API, Getx, Bloc, Firebase, Google Play Services, Google Admob, Service, Broadcast Receiver knowledge and GitHub to work with a team.
 
 
-👀 I’m interested in develop mobile apps
+👀 I’m interested in develop mobile apps<br>
 🌱 I’m currently learning <a href="https://flutter.dev/docs" rel="nofollow">Flutter</a><br>
 💬 Ask me about anything <a href="https://github.com/Ibrahim-Mushtaha/Ibrahim-Mushtaha/issues" rel="nofollow">here</a><br>
 
